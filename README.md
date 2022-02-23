@@ -5,7 +5,7 @@ I am Munaf Divan.
 <!--
 **divan1920/divan1920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Divan's GitHub stats](https://github-readme-stats.vercel.app/api?username=divan1920)](https://github.com/divan1920/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=divan1920)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Here are some ideas to get you started:
