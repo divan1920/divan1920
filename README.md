@@ -1,7 +1,10 @@
 ### Hi there 👋, my name is Munaf Divan
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/divan1920)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/munaf-divan-a031a51a0/)  [<img src='https://github.com/divan1920/divan1920/blob/main/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/__munaf__divan__/)
+[<img src='https://github.com/divan1920/divan1920/blob/main/github.svg' alt='github' height='40'>](https://github.com/divan1920)  [<img src='https://github.com/divan1920/divan1920/blob/main/LinkedIn.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/munaf-divan-a031a51a0/)  [<img src='https://github.com/divan1920/divan1920/blob/main/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/__munaf__divan__/)
 
+### Happy to See you Here!!
+
+I am currently a student at Dharmsinh Desai University Nadiad India.
 
 ### Competitive Programming:
  
