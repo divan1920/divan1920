@@ -8,7 +8,7 @@ I am currently a student at Dharmsinh Desai University Nadiad India.
 
 ### Competitive Programming:
  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/divan_1920)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/divan_1920/) 
+[<img src='https://github.com/divan1920/divan1920/blob/main/codechef-icon.png' alt='codechef' height='40'>](https://www.codechef.com/users/divan_1920)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/divan_1920/) 
 
 ### My GitHub States:
 
