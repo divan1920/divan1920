@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Munaf Divan
 
-[<img src='https://github.com/divan1920/divan1920/blob/main/github.svg' alt='github' height='20'>](https://github.com/divan1920)  [<img src='https://github.com/divan1920/divan1920/blob/main/LinkedIn.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/munaf-divan-a031a51a0/)  [<img src='https://github.com/divan1920/divan1920/blob/main/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/__munaf__divan__/)
+[<img src='https://github.com/divan1920/divan1920/blob/main/github.svg' alt='github' height='30'>](https://github.com/divan1920)  [<img src='https://github.com/divan1920/divan1920/blob/main/LinkedIn.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/munaf-divan-a031a51a0/)  [<img src='https://github.com/divan1920/divan1920/blob/main/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/__munaf__divan__/)
 
 ### Happy to See you Here!!
 
