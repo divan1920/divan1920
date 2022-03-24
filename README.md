@@ -12,8 +12,8 @@ I am currently a student at Dharmsinh Desai University Nadiad India.
 [<img src='https://github.com/divan1920/divan1920/blob/main/Leetcode-icon.png' alt='leetcode' height='50'>](https://leetcode.com/divan_1920/) 
 
 ### Skills
-[<img src='https://github.com/divan1920/divan1920/blob/main/codechef-icon.png' alt='codechef' height='50'>]
-[<img src='https://github.com/divan1920/divan1920/blob/main/codechef-icon.png' alt='codechef' height='50'>](https://www.codechef.com/users/divan_1920) 
+<img src='https://user-images.githubusercontent.com/74142459/159950682-05996ac2-1e4d-4d08-ac61-145939215dfc.png' alt='html' height='50'>
+<img src='https://github.com/divan1920/divan1920/blob/main/codechef-icon.png' alt='codechef' height='50'> 
 
 ### My GitHub States
 
