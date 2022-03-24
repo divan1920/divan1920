@@ -6,14 +6,14 @@
 
 I am currently a student at Dharmsinh Desai University Nadiad India.
 
+<hr/>
+
 ### Competitive Coding Profile
  
 [<img src='https://github.com/divan1920/divan1920/blob/main/codechef-icon.png' alt='codechef' height='50'>](https://www.codechef.com/users/divan_1920)
 [<img src='https://github.com/divan1920/divan1920/blob/main/Leetcode-icon.png' alt='leetcode' height='50'>](https://leetcode.com/divan_1920/) 
 
-### Skills
-<img src='https://user-images.githubusercontent.com/74142459/159950682-05996ac2-1e4d-4d08-ac61-145939215dfc.png' alt='html' height='50'>
-<img src='https://github.com/divan1920/divan1920/blob/main/codechef-icon.png' alt='codechef' height='50'> 
+<hr/>
 
 ### My GitHub States
 
@@ -22,3 +22,11 @@ I am currently a student at Dharmsinh Desai University Nadiad India.
 ### Most Used Language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divan1920&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr/>
+
+### 📫How to Reach Me
+
+📩 Mail me divanmunafsalimsha@gmail.com
+
+<hr/>
