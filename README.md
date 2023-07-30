@@ -1,10 +1,8 @@
-### Hi there 👋, I am Munaf Divan
+<h1>Hi 👋, I am Munaf Divan</h1>
 
 [<img src='https://github.com/divan1920/divan1920/blob/main/github.svg' alt='github' height='30'>](https://github.com/divan1920)  [<img src='https://github.com/divan1920/divan1920/blob/main/LinkedIn.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/munaf-divan-a031a51a0/)  [<img src='https://github.com/divan1920/divan1920/blob/main/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/__munaf__divan__/)
 
-### Happy to See you Here!!
-
-I am currently a student at Dharmsinh Desai University Nadiad India.
+<p>I'm a software engineer who is passionate about technology and web development. Some technologies I enjoy working with include ReactJS, Typescript, and NodeJs.</p>
 
 <hr/>
 
